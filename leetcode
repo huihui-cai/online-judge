@@ -5,3 +5,6 @@ Interesting problem
 223. Rectangle Area [logic]
 
 731. My Calendar II [segment tree and entry +1, out, -1]
+287. Find the Duplicate Number [binary search answer]
+     [Find intersection pointer: http://keithschwarz.com/interesting/code/?dir=find-duplicate]
+     
